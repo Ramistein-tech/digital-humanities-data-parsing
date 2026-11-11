@@ -1,0 +1,16 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <titleStmt>
+      <title>Codex Tubingensis Demo</title>
+      <author>Anonymous Scholar</author>
+    </titleStmt>
+    <settingStmt>
+      <date>1485</date>
+    </settingStmt>
+  </teiHeader>
+  <text>
+    <body>
+      <p>In Villa <placeName>Tübingen</placeName>, written by <persName>Johannes</persName>.</p>
+    </body>
+  </text>
+</TEI>
